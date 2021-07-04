@@ -1,0 +1,10 @@
+For Audit Learners
+Download the tar file for the notebooks: Section2-Weather-PCA_PART1 and Section2-Weather-PCA_PART2
+
+After Downloading the files  unpack it using the commands:
+
+tar -xzf Section2NotebooksPart1.tgz
+
+tar -xzf Section2NotebooksPart2.tgz
+
+You should get directories named Section2-Weather-PCA_PART1 and  Section2-Weather-PCA_PART2 which contains all of the notebooks used in weeks 3 and 4. Feel free to merge the two parts (just copy all the notebooks from PART2 to PART1) for your own convenience.
